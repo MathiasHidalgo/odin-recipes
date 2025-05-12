@@ -1,0 +1,26 @@
+.gridRow {
+    min-width: 20px;
+    min-height: 20px;
+    margin-right: 2px;
+}
+.cell {
+    border: 1px solid black;
+    min-width: 20px;
+    min-height: 20px;
+    display: inline-block;
+    margin-right: 2px;
+}
+
+.cell:hover {
+    background-color: blue;
+    cursor: pointer;
+}
+.hoverColor {
+    background-color: pink
+}
+
+
+#Btn {
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
